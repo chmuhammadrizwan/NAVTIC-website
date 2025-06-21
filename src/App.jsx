@@ -9,7 +9,6 @@ import Banner from "./components/Banner/Banner";
 import AppStore from "./components/AppStore/AppStore";
 import Testimonial from "./components/Testimonial/Testimonial";
 import Footer from "./components/Footer/Footer";
-import "aos/dist/aos.css";
 
 function App() {
   // React.useEffect(() => {
